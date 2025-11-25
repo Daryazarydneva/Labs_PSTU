@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dasha\\source\\repos\\2.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F65E8A-4213-4232-86FD-D78A8C1964EC}|2.1\\2.1.vcxproj|C:\\Users\\dasha\\source\\repos\\2.1\\2.1\\2.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3F65E8A-4213-4232-86FD-D78A8C1964EC}|2.1\\2.1.vcxproj|solutionrelative:2.1\\2.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2.1.cpp",
+              "DocumentMoniker": "C:\\Users\\dasha\\source\\repos\\2.1\\2.1\\2.1.cpp",
+              "RelativeDocumentMoniker": "2.1\\2.1.cpp",
+              "ToolTip": "C:\\Users\\dasha\\source\\repos\\2.1\\2.1\\2.1.cpp",
+              "RelativeToolTip": "2.1\\2.1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-24T18:15:42.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
