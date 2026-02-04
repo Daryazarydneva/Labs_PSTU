@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <Solution>
   <Configurations>
     <Platform Name="x64" />
@@ -5,3 +6,12 @@
   </Configurations>
   <Project Path="2.19/2.19.vcxproj" Id="7b5f30b3-a7dc-4e92-b470-76354fa6f885" />
 </Solution>
+=======
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="2.19/2.19.vcxproj" Id="7b5f30b3-a7dc-4e92-b470-76354fa6f885" />
+</Solution>
+>>>>>>> ac2ff8e9902a0609db1464e9d85d9d2a3a3d84a0
