@@ -15,3 +15,4 @@
 |5 Лаба   | Функции и массивы  |   | https://github.com/Daryazarydneva/Labs_PSTU/tree/239819d717eb3208cef8c750ee360070dad77f07/Sem2/5Laba |  https://github.com/Daryazarydneva/Labs_PSTU/blob/239819d717eb3208cef8c750ee360070dad77f07/Sem2/5Laba/5Laba.png |
 |Ханойские башни|||https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/Hanoiskie/Hanoiskie.cpp|https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/Hanoiskie/Hanoi.drawio.png|
 |Числа Фибаначчи|||https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/Fibanachi/Fib.png|https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/Fibanachi/fibanachi.cpp|
+|10 лаба|||https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/10Lab/10Lab.cpp||
