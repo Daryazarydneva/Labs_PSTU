@@ -10,7 +10,7 @@
 
 |п/п| Наименование | Ссылка на репозиторий | Ссылка на схему |
 |---|---|---|---| 
-|-| задачи с массивами  | https://github.com/Daryazarydneva/Labs_PSTU/tree/239819d717eb3208cef8c750ee360070dad77f07/Sem2/3  |   |
+|-| задачи с массивами  | https://github.com/Daryazarydneva/Labs_PSTU/tree/239819d717eb3208cef8c750ee360070dad77f07/Sem2/3(репозиторий)  |   |
 |1  🟢/🟢 | 4 лаба    |https://github.com/Daryazarydneva/Labs_PSTU/tree/239819d717eb3208cef8c750ee360070dad77f07/Sem2/4Laba  |  https://github.com/Daryazarydneva/Labs_PSTU/blob/239819d717eb3208cef8c750ee360070dad77f07/Sem2/4Laba/4Laba.png |
 |2  🟢/🟢| 5 лаба  | https://github.com/Daryazarydneva/Labs_PSTU/tree/239819d717eb3208cef8c750ee360070dad77f07/Sem2/5Laba |  https://github.com/Daryazarydneva/Labs_PSTU/blob/239819d717eb3208cef8c750ee360070dad77f07/Sem2/5Laba/5Laba.png |
 |3  🟢/|рекурсии|https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/recursii/Fibanachi||
