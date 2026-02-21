@@ -18,6 +18,6 @@
 |5 🟢/🟢|8 ферзей|[код](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/8fersei/8fersei.cpp)|[схема](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/8fersei/8fersei.png)|
 |6 🟢/🟢|простые сортировки|[репозиторий](https://github.com/Daryazarydneva/Labs_PSTU/tree/40ef91272e5c974a6eabaa695f578a1ecc440df1/Sem2/sortirovki)||
 |7 🟢/|10 лаба|[код](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/10Lab/10Lab.cpp)||
-|8 🟢/|7.1|[](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/7.1laba/7.1laba.cpp)|[]()|
-|9 🟢/|7.2|[](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/7.2laba/.vs/7.2laba.slnx/v18)|[]()|
+|8 🟢/|7.1|[код](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/7.1laba/7.1laba.cpp)|[]()|
+|9 🟢/|7.2|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/7.2laba/.vs/7.2laba.slnx/v18)|[]()|
 |10|6 лаба|||
