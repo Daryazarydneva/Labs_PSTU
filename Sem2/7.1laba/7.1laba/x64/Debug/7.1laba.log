@@ -1,0 +1,6 @@
+﻿  7.1laba.cpp
+C:\Users\dasha\source\repos\7.1laba\7.1laba\7.1laba.cpp(33,56): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\dasha\source\repos\7.1laba\7.1laba\7.1laba.cpp(33,51): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\dasha\source\repos\7.1laba\7.1laba\7.1laba.cpp(33,46): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\dasha\source\repos\7.1laba\7.1laba\7.1laba.cpp(33,41): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  7.1laba.vcxproj -> C:\Users\dasha\source\repos\7.1laba\x64\Debug\7.1laba.exe
