@@ -20,4 +20,4 @@
 |7 🟢/🟢|10 лаба|[код](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/10Lab/10Lab.cpp)|[схема](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/10Lab/10laba.drawio)|
 |8 🟢/🟢|7.1|[код](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/7.1laba/7.1laba.cpp)|[схема](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/7.1laba/7.1.png)|
 |9 🟢/🟢|7.2|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/7.2laba/.vs/7.2laba.slnx/v18)|[схема](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/7.2laba/7.2.png)|
-|10|6 лаба|||
+|10 🟢/🟢|6 лаба|[код](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/6laba/6laba.cpp)|[схема](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/6laba/6laba.png)|
