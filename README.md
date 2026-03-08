@@ -22,3 +22,4 @@
 |9 🟢/🟢|7.2|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/7.2laba/.vs/7.2laba.slnx/v18)|[схема](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/7.2laba/7.2.png)|
 |10 🟢/🟢|6 лаба|[код](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/6laba/6laba.cpp)|[схема](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/6laba/6laba.png)|
 |11 🟢/🟢|8 лаба|[код](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/8laba/8laba.cpp)|[схема](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/8laba/8laba.png)|
+|12 🟢/🟢|9 лаба|[код](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/9Laba/9Laba.cpp)|[схема](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/9Laba/9Laba.png)|
