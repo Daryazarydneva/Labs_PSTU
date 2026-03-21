@@ -23,4 +23,4 @@
 |10 🟢/🟢|6 лаба|[код](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/6laba/6laba.cpp)|[схема](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/6laba/6laba.png)|
 |11 🟢/🟢|8 лаба|[код](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/8laba/8laba.cpp)|[схема](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/8laba/8laba.png)|
 |12 🟢/🟢|9 лаба|[код](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/9Laba/9Laba.cpp)|[схема](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/9Laba/9Laba.png)|
-|13|11 лаба 😭/😭|||
+|13 😭/😭|11 лаба|||
