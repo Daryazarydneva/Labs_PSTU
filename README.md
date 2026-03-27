@@ -23,9 +23,9 @@
 |10 🟢/🟢|6 лаба|[код](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/6laba/6laba.cpp)|[схема](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/6laba/6laba.png)|
 |11 🟢/🟢|8 лаба|[код](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/8laba/8laba.cpp)|[схема](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/8laba/8laba.png)|
 |12 🟢/🟢|9 лаба|[код](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/9Laba/9Laba.cpp)|[схема](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/9Laba/9Laba.png)|
-|13 😭/😭|11.1 лаба|||
-|14 😭/😭|11.1 лаба|||
-|15 😭/😭|11.1 лаба|||
-|16 😭/😭|11.1 лаба|||
-|17||||
+|13 😭/😭|11.1 лаба|[код](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/11laba/11laba.cpp)||
+|14 😭/😭|11.2 лаба|[код](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/11.2Laba/11.2Laba.cpp)||
+|15 😭/😭|11.3 лаба|||
+|16 😭/😭|11.4 лаба|||
+|17|поиски|[репозиторий](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/Новая%20папка)||
 |18||||
