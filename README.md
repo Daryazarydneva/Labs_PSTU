@@ -27,5 +27,5 @@
 |14 |🟢/🔴|11.2 лаба|[код](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/11.2Laba/11.2Laba.cpp)||
 |15 |😭/🔴|11.3 лаба|||
 |16 |😭/🔴|11.4 лаба|||
-|17|🟢/🔴|поиски||[репозиторий](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/Новая%20папка)||
+|17|🟢/🔴|поиски|[репозиторий](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/Новая%20папка)||
 |18|🟢/🔴|подстрока в строке |[репозиторий](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/substring)||
