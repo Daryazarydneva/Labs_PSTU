@@ -9,7 +9,7 @@
 ## 2 семестр
 
 |п/п| Наименование | Статус | Ссылка на репозиторий | Ссылка на схему |
-|---|---|---|---| 
+|---|---|---|---|---| 
 |-| задачи с массивами  | [репозиторий](https://github.com/Daryazarydneva/Labs_PSTU/tree/239819d717eb3208cef8c750ee360070dad77f07/Sem2/3)|   |
 |1  |🟢/🟢 | 4 лаба    |[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/239819d717eb3208cef8c750ee360070dad77f07/Sem2/4Laba)  |  [схема](https://github.com/Daryazarydneva/Labs_PSTU/blob/239819d717eb3208cef8c750ee360070dad77f07/Sem2/4Laba/4Laba.png) |
 |2  |🟢/🟢| 5 лаба  |[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/239819d717eb3208cef8c750ee360070dad77f07/Sem2/5Laba)|  [схема](https://github.com/Daryazarydneva/Labs_PSTU/blob/239819d717eb3208cef8c750ee360070dad77f07/Sem2/5Laba/5Laba.png) |
