@@ -25,7 +25,7 @@
 |12 |🟢/🟢|9 лаба|[код](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/9Laba/9Laba.cpp)|[схема](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/9Laba/9Laba.png)|
 |13 |🟢/🔴|11.1 лаба|[код](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/11laba/11laba.cpp)||
 |14 |🟢/🔴|11.2 лаба|[код](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/11.2Laba/11.2Laba.cpp)||
-|15 |😭/🔴|11.3 лаба|||
-|16 |😭/🔴|11.4 лаба|||
+|15 |🟢/🔴|11.3 лаба|[код](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/11.3Laba/Stack.cpp)||
+|16 |🟢/🔴|11.4 лаба|[код](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/11.4laba/11.4laba/11.4laba.cpp)||
 |17|🟢/🔴|поиски|[репозиторий](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/Новая%20папка)||
 |18|🟢/🔴|подстрока в строке |[репозиторий](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/substring)||
