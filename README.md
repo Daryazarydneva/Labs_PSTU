@@ -30,3 +30,11 @@
 |16 |🟢/🔴|11.4 лаба|[код](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/11.4laba/11.4laba/11.4laba.cpp)||
 |17|🟢/🔴|поиски|[репозиторий](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/Новая%20папка)||
 |18|🟢/🔴|подстрока в строке |[репозиторий](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/substring)||
+|19||Быстрые сортировки (Ломуто, слиянием, блочная, подсчетом)|||
+|20||Быстрые сортировки (Шелла и Хоара)|||
+|21||Внешние сортировки|||
+|22||Хэши|||
+|23||Классы 1|||
+|24||Классы 2|||
+|25||Классы 3|||
+|26||Классы 4|||
