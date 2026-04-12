@@ -36,5 +36,5 @@
 |22||Хэши|[код]()||
 |23||Классы 1|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/class/class1)||
 |24||Классы 2|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/class/class2)||
-|25||Классы 3|[код]()||
+|25||Классы 3|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/class/Class3)||
 |26||Классы 4|[код]()||
