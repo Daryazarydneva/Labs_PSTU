@@ -43,3 +43,7 @@
 |29|🟢|Классы 7|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/class7)||
 |30|🟢|Классы 8|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/class8)||
 |31|🟢|Классы 9|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/9class)||
+|32|🟢|Классы 10|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/10class)||
+|33|🟢|Классы 11|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/11laba)||
+|34|🟢|Классы 12|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/12laba)||
+|35||Классы 13|[код]()||
