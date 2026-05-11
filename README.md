@@ -34,10 +34,10 @@
 |20|🟢|Быстрые сортировки (Шелла и Хоара)|[репозиторий](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/Hoara%2CShell)||
 |21||Внешние сортировки|||
 |22||Хэши|[код]()||
-|23|🟢|Классы 1|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/class/class1)||
-|24|🟢|Классы 2|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/class/class2)||
-|25|🟢|Классы 3|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/class/Class3)||
-|26|🟢|Классы 4|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/class4)||
+|23|🟢|Классы 1|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/class/class1)|[UML](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/uml1.png)|
+|24|🟢|Классы 2|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/class/class2)|[UML](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/uml2.png)|
+|25|🟢|Классы 3|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/class/Class3)|[UML](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/uml3.png)|
+|26|🟢|Классы 4|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/class4)|[UML](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/uml4.png)|
 |27|🟢|Классы 5|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/class/class5)||
 |28|🟢|Классы 6|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/class6)||
 |29|🟢|Классы 7|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/class7)||
