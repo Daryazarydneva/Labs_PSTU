@@ -47,4 +47,4 @@
 |33|🟢|Классы 11|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/11laba)||
 |34|🟢|Классы 12|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/12laba)||
 |35||Классы 13|[код]()||
-|35||дерево 1|[репозиторий](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/tree1)||
+|35|🟢|дерево 1|[репозиторий](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/tree1)||
