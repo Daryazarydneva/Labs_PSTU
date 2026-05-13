@@ -38,12 +38,12 @@
 |24|🟢|Классы 2|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/class/class2)|[UML](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/UML/UML2.png)|
 |25|🟢|Классы 3|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/class/Class3)|[UML](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/UML/UML3.png)|
 |26|🟢|Классы 4|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/class4)|[UML](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/UML/UML4.png)|
-|27|🟢|Классы 5|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/class/class5)||
+|27|🟢|Классы 5|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/class/class5)|[UML](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/uml5.png)|
 |28|🟢|Классы 6|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/class6)|[UML](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/UML/uml6.png)|
 |29|🟢|Классы 7|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/class7)|[UML](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/UML/uml7.png)|
 |30|🟢|Классы 8|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/class8)||
-|31|🟢|Классы 9|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/9class)||
-|32|🟢|Классы 10|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/10class)||
+|31|🟢|Классы 9|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/9class)|[UML](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/uml9.png)|
+|32|🟢|Классы 10|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/10class)|[UML](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/uml10.png)|
 |33|🟢|Классы 11|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/11laba)||
 |34|🟢|Классы 12|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/12laba)||
 |35||Классы 13|[код]()||
