@@ -46,5 +46,5 @@
 |32|🟢|Классы 10|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/10class)|[UML](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/uml10.png)|
 |33|🟢|Классы 11|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/11laba)|[UML](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/uml11.png)|
 |34|🟢|Классы 12|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/12laba)|[UML](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/uml12.png)|
-|35||Классы 13|[код]()||
+|35|🟢|Классы 13|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/class13)|[UML](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/uml13.png)|
 |35|🟢|дерево 1|[репозиторий](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/tree1)||
