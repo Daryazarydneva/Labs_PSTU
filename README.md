@@ -33,7 +33,7 @@
 |19|🟢|Быстрые сортировки (Ломуто, слиянием, блочная, подсчетом)|[репозиторий](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/Sort)||
 |20|🟢|Быстрые сортировки (Шелла и Хоара)|[репозиторий](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/Hoara%2CShell)||
 |21||Внешние сортировки|||
-|22||Хэши|[код]()||
+|22|🟢|Хэши|[код](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/Hash/Hash%20table.cpp)||
 |23|🟢|Классы 1|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/class/class1)|[UML](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/UML/UML1.png)|
 |24|🟢|Классы 2|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/class/class2)|[UML](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/UML/UML2.png)|
 |25|🟢|Классы 3|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/class/Class3)|[UML](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/UML/UML3.png)|
@@ -47,4 +47,6 @@
 |33|🟢|Классы 11|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/11laba)|[UML](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/uml11.png)|
 |34|🟢|Классы 12|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/12laba)|[UML](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/uml12.png)|
 |35|🟢|Классы 13|[код](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/class13)|[UML](https://github.com/Daryazarydneva/Labs_PSTU/blob/main/Sem2/uml13.png)|
-|35|🟢|дерево 1|[репозиторий](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/tree1)||
+|36|🟢|дерево 1|[репозиторий](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/tree1)||
+|37|🟢|граф|[репозиторий](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/graph2)||
+|38|🟢|комивояжер|[репозиторий](https://github.com/Daryazarydneva/Labs_PSTU/tree/main/Sem2/commivoygor)||
